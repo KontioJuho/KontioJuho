@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @KontioJuho, an applied mathematician and data scientist
 - :computer: I’m interested in developing machine learning web-applications with intuitive user-interfaces 
-- :sparkler: Currently building machine learning tools for biomedical applications   
+- :sparkler: Currently developing web-applications and R-packages for the MatriNet project in @Izzilab:
+     - www.matrinet.org
+     - matrinetR    
 - :couple: I’m looking to collaborate on developing multi-language solutions for biomedical data applications 
      that would exploit the best features from different programming languages including:  
      - Python
