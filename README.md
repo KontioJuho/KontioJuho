@@ -4,7 +4,7 @@
 - :sparkler: Currently developing web-applications and R-packages for the **MatriNet** project in @Izzilab:
      - Publication: [Matrix Biology](https://www.sciencedirect.com/science/article/pii/S0945053X22000713)
      - R package: [matrinetR ](https://github.com/KontioJuho/matrinetR)   
-- :couple: I’m looking to collaborate on developing multi-language solutions for biomedical data applications.
+- :couple: I’m looking to collaborate on developing biomedical data applications.
 
 <!---
 KontioJuho/KontioJuho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
